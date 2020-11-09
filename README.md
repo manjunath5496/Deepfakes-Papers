@@ -101,10 +101,38 @@ Manipulated Face Videos</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(48).pdf" style="text-decoration:none;">DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(49).pdf" style="text-decoration:none;">CNN Detection of GAN-Generated Face Images
+based on Cross-Band Co-occurrences Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(50).pdf" style="text-decoration:none;">Dynamic texture analysis for detecting
+fake faces in video sequences</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(51).pdf" style="text-decoration:none;">Fighting Deepfake by Exposing the Convolutional Traces on Images</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(52).pdf" style="text-decoration:none;">Sharp Multiple Instance Learning for DeepFake Video Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(53).pdf" style="text-decoration:none;">DeepFake Detection Based on Discrepancies
+Between Faces and their Context</a></li>
+
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(54).pdf" style="text-decoration:none;">Deep Detection for Face Manipulation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(55).pdf" style="text-decoration:none;">In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(56).pdf" style="text-decoration:none;">Protecting World Leaders Against Deep Fakes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(57).pdf" style="text-decoration:none;">Deepfake Video Detection through Optical Flow based CNN</a></li>
+
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(58).pdf" style="text-decoration:none;">Fake Face Detection Methods: Can They Be
+Generalized?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(59).pdf" style="text-decoration:none;">Deepfake Video Detection Using Recurrent Neural Networks</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(60).pdf" style="text-decoration:none;">Forensics Face Detection From GANs Using Convolutional Neural Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(61).pdf" style="text-decoration:none;">Detection of Deepfake Video Manipulation</a></li>
 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(62).pdf" style="text-decoration:none;">"Deep Fakes" using Generative Adversarial Networks (GAN)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(63).pdf" style="text-decoration:none;">Synthesizing Obama: Learning Lip Sync from Audio</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Deepfakes-Papers/blob/master/dfk(64).pdf" style="text-decoration:none;">ManTra-Net: Manipulation Tracing Network For Detection And Localization of Image Forgeries With Anomalous Features</a></li>
 
 
 
